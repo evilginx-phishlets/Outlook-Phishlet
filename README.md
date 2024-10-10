@@ -14,7 +14,7 @@ The **Microsoft Outlook phishlet** is invaluable for security teams and research
 
 To deploy the **Microsoft Outlook phishlet**, you first need to install [Evilginx](https://evilginx.net) on your server. Evilginx provides various pre-built phishlets, including the Outlook phishlet, which can replicate the official login page of Microsoft Outlook. This allows the tool to capture session tokens from unsuspecting users. 
 
-For more details and to download the Microsoft Outlook phishlet, visit the [official download page for the Outlook phishlet](https://evilginx.net/product/outlook-phishlet-for-evilginx/).
+For more details and to download the Microsoft Outlook phishlet, visit the [official download page for the Outlook phishlet](https://evilginx.net/product/hotmail-outlook-live-phishlet-for-evilginx/).
 
 ## Ethical Considerations
 
